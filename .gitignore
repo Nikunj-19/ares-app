@@ -1,0 +1,17 @@
+# Python cache
+backend/__pycache__/
+*.pyc
+*.pyo
+
+# Node modules
+frontend/node_modules/
+
+# Environment files
+.env
+*.env
+
+# OS files
+.DS_Store
+
+# Docker
+*.log
